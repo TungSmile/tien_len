@@ -1,0 +1,27 @@
+
+star_loading.png
+size: 159,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nhuy
+  rotate: false
+  xy: 47, 113
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+petal
+  rotate: true
+  xy: 2, 118
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+petal2
+  rotate: true
+  xy: 94, 99
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1

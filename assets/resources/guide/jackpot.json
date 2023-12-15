@@ -1,0 +1,135 @@
+{
+   "jackpot": {
+      "bida": [
+         {
+            "string": "I. Hướng dẫn:",
+            "size": 30,
+            "color": "#FFFF00"
+         },
+         {
+            "string": "- Thời gian:",
+            "size": 26,
+            "color": "#00FF00"
+         },
+         {
+            "string": "  Tất cả các ngày trong tuần.",
+            "size": 26,
+            "color": "#FFFFFF"
+         },
+         {
+            "string": "- Đối tượng tham gia:",
+            "size": 30,
+            "color": "#FFFF00"
+         },
+         {
+            "string": "  Áp dụng cho tất cả thành viên trên cổng game Sime:",
+            "size": 26,
+            "color": "#FFFFFF"
+         },
+         {
+            "string": "I. Thể lệ:",
+            "size": 30,
+            "color": "#FFFF00"
+         },
+         {
+            "string": "Hũ Bida xuất hiện khi:",
+            "size": 26,
+            "color": "#FFFFFF"
+         },
+         {
+            "string": "- Bida Phỏm: Trong lượt phá cơ, game thủ ăn được đúng bi mục tiêu sẽ được nổ hũ.",
+            "size": 26,
+            "color": "#FFFFFF"
+         },
+         {
+            "string": "Thành viên chơi ở mực cược càng cao thì sẽ nổ hũ càng lớn.",
+            "size": 26,
+            "color": "#FFFFFF"
+         }
+      ],
+      "gamebai": [
+         {
+            "string": "I. Hướng dẫn:",
+            "size": 30,
+            "color": "#000000"
+         },
+         {
+            "string": "- Thời gian:",
+            "size": 26,
+            "color": "#000000"
+         },
+         {
+            "string": "  Tất cả các ngày trong tuần.",
+            "size": 26,
+            "color": "#5A4D4D"
+         },
+         {
+            "string": "- Đối tượng tham gia:",
+            "size": 30,
+            "color": "#000000"
+         },
+         {
+            "string": "  Áp dụng cho tất cả thành viên trên cổng game Sime:",
+            "size": 26,
+            "color": "#5A4D4D"
+         },
+         {
+            "string": "I. Thể lệ:",
+            "size": 30,
+            "color": "#000000"
+         },
+         {
+            "string": "Hũ Vàng xuất hiện khi thành viên chơi các game: TLMN, Phỏm, Mậu Binh. Ngay sau khi đạt được thế bài đặc biệt, thành viên sẽ được hệ thống cập nhật và trao thưởng.",
+            "size": 26,
+            "color": "#5A4D4D"
+         },
+         {
+            "string": "- Thành viên chơi bàn cược càng cao thì cơ hội săn hũ càng lớn.",
+            "size": 26,
+            "color": "#5A4D4D"
+         }
+      ],
+      "soccer": [
+         {
+            "string": "I. Hướng dẫn:",
+            "size": 30,
+            "color": "#FFFF00"
+         },
+         {
+            "string": "- Thời gian:",
+            "size": 26,
+            "color": "#00FF00"
+         },
+         {
+            "string": "  Tất cả các ngày trong tuần.",
+            "size": 26,
+            "color": "#FFFFFF"
+         },
+         {
+            "string": "- Đối tượng tham gia:",
+            "size": 30,
+            "color": "#FFFF00"
+         },
+         {
+            "string": "  Áp dụng cho tất cả thành viên trên cổng game Sime:",
+            "size": 26,
+            "color": "#FFFFFF"
+         },
+         {
+            "string": "I. Thể lệ:",
+            "size": 30,
+            "color": "#FFFF00"
+         },
+         {
+            "string": "Hũ Vàng xuất hiện khi thành viên chơi các game Soccer Galaxy. Khi hũ đến một mức độ nhất định, người chơi khi chơi thắng sẽ có cơ hội nổ hũ.",
+            "size": 26,
+            "color": "#FFFFFF"
+         },
+         {
+            "string": "- Thành viên chơi bàn cược càng cao thì cơ hội săn hũ càng lớn.",
+            "size": 26,
+            "color": "#FFFFFF"
+         }
+      ]
+   }
+}

@@ -1,0 +1,48 @@
+
+icon_store.png
+size: 249,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SMS
+  rotate: false
+  xy: 107, 71
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1
+icon_store
+  rotate: false
+  xy: 2, 127
+  size: 123, 120
+  orig: 123, 120
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 2, 25
+  size: 100, 89
+  orig: 100, 89
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 127, 124
+  size: 123, 120
+  orig: 123, 120
+  offset: 0, 0
+  index: -1
+shadowsms
+  rotate: true
+  xy: 178, 53
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1
+vong
+  rotate: false
+  xy: 93, 108
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1

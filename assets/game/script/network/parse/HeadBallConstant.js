@@ -1,0 +1,151 @@
+const HeadBallConstant = {
+    GAME_LOBBY_EVENT: {
+        REQUEST_LOBBY_FOR_ZONE_ID_TYPE: "REQUEST_LOBBY_FOR_ZONE_ID_TYPE",
+        REQUEST_JOIN_TABLE_WITH_TABLE_DATA: "REQUEST_JOIN_TABLE_WITH_TABLE_DATA",
+        CREATE_TABLE_UI_WITH_MODE_1V1_PLAYERS: "CREATE_TABLE_UI_WITH_MODE_1V1_PLAYERS"
+    },
+    TAG: {
+        scenes: {
+            LOGIN: 0,
+            HOME: 1,
+            LOBBY: 2,
+            GAME: 3
+        }
+    },
+    GAME_STATE: {
+        WAIT: 0,
+        PLAYING: 1
+    },
+    LOGIN_EVENT: {
+        LOGINED_SUCCESS: "LOGINED_SUCCESS",
+        LOGOUTED_SUCCESS: "LOGOUTED_SUCCESS",
+        CONFIG_HOME_LOGIN: "CONFIG_HOME_LOGIN"
+    },
+    ZONE_ID: {
+        LOBBY: 46
+    },
+    ACTION: {
+        LEFT: 1,
+        UN_LEFT: -1,
+        RIGHT: 2,
+        UN_RIGHT: -2,
+        UP: 3,
+        UN_UP: -3,
+        SUT_THANG: 5,
+        SUT_TREN: 4,
+    },
+    SEND_STATUS: {
+        SEND_POSITION: 1111,
+        SET_POSITION: 1112,
+        SET_JUMP_ANIMATION: 1113,
+        SET_HEADER_SHOT_ANIMATION: 1114,
+        SET_DIPPING_SHOT_ANIMATION: 1115,
+        SET_STRAIGHT_SHOT_ANIMATION: 1116,
+        ON_UPDATE_POSITION_PLAYER_ON_MOVE: 1117,
+        BONG_VA_CHAM_VOI_MOT_PHAN_CUA_MOT_PLAYER_IDLE: 1118,
+        BONG_VA_CHAM_VOI_MOT_PHAN_CUA_MOT_PLAYER_SHOT_FRONT: 1119,
+        BONG_VA_CHAM_VOI_MOT_PHAN_CUA_MOT_PLAYER_SHOT_PARABOL: 1120,
+        BONG_VA_CHAM_VOI_MOT_PHAN_CUA_MOT_PLAYER_JUMPING: 1121,
+        BONG_VA_CHAM_VOI_MOT_PHAN_CUA_MOT_PLAYER_HEADING: 1122,
+        ON_UPDATE_BALL_AND_POSITION_PLAYER: 1123,
+        BALL_INSIDE_BODY_FEET_COLLISION: 1124,
+        PLAYER_MOVING_UPDATE_OTHER: 1125,
+        PLAYER_PUSHING_OTHER: 1126,
+        PLAYER_USER_ID_SHOT_GOAL: 1127,
+        PLAYER_SHOT_GOAL: 1128,
+        ON_UPDATE_BALL_AND_POSITION_PLAYER_FOR_BOT: 1129,
+        ON_UPDATE_BAL_AND_POSITION_COLLIDER_WALL: {
+            ID: 1130,
+            TAGS: {
+                LEFT_GOAL: 11301,
+                RIGHT_GOAL: 11302,
+                TOP_STADIUM: 11303,
+                BOTTOM_STATDIUM: 11304,
+                LEFT_STADIUM: 11305,
+                RIGH_STADIUM: 11306
+            }
+        },
+        ON_UPDATE_BAL_AND_POSITION_COLLIDER_WALL_AFTER: 1131,
+        PLAYER_ON_COLISION_FAST: 1132
+    },
+    GAME_COMMONS_EVENT: {
+        SET_USER_NAME: "SET_USER_NAME",
+        SET_USER_MONEY: "SET_USER_MONEY",
+        SET_USER_LEVEL: "SET_USER_LEVEL",
+        SET_USER_EXP: "SET_USER_EXP",
+        SET_USER_ID: "SET_USER_ID",
+        SET_USER_AVATAR_AS_ID: "SET_USER_AVATAR_AS_ID",
+        SET_USER_AVATAR_AS_FRAME: "SET_USER_AVATAR_AS_FRAME",
+        BACK_TO_HOME_GAME: "BACK_TO_HOME_GAME",
+        CHANGE_AVATAR: "CHANGE_AVATAR",
+        CHANGE_DISPLAY_NAME: "CHANGE_DISPLAY_NAME",
+        OPEN_HOME_MID: "OPEN_HOME_MID",
+        CREATE_TABLE_1V1_PLAYERS: "CREATE_TABLE_1V1_PLAYERS",
+        CREATE_TABLE_1V4_PLAYERS: "CREATE_TABLE_1V4_PLAYERS",
+        OFFLINE_TIME_OUT: "OFFLINE_TIME_OUT",
+        SHOW_GAME_LAYER: "SHOW_GAME_LAYER",
+        HIDE_GAME_LAYER: "HIDE_GAME_LAYER",
+        SHOW_HOME_LAYER: "SHOW_HOME_LAYER",
+        SHOW_LOGIN_LAYER: "SHOW_LOGIN_LAYER",
+        SHOW_LOBBY_LAYER: "SHOW_LOBBY_LAYER",
+        DA_KHOI_TAO_XONG_BAN_CHOI: "DA_KHOI_TAO_XONG_BAN_CHOI",
+        YEU_CAU_KHOI_TAO_WORLD_VAT_LY: "YEU_CAU_KHOI_TAO_WORLD_VAT_LY",
+    },
+    GAME_LOBBY_EVENT: {
+        REQUEST_LOBBY_FOR_ZONE_ID_TYPE: "REQUEST_LOBBY_FOR_ZONE_ID_TYPE",
+        REQUEST_JOIN_TABLE_WITH_TABLE_DATA: "REQUEST_JOIN_TABLE_WITH_TABLE_DATA",
+        CREATE_TABLE_UI_WITH_MODE_1V4_PLAYERS: "CREATE_TABLE_UI_WITH_MODE_1V4_PLAYERS",
+        CREATE_TABLE_UI_WITH_MODE_1V1_PLAYERS: "CREATE_TABLE_UI_WITH_MODE_1V1_PLAYERS",
+        CREATE_TABLE_UI_WITH_MODE_LUCKYSHOT_PLAYERS: "CREATE_TABLE_UI_WITH_MODE_LUCKYSHOT_PLAYERS",
+        CREATE_TABLE_UI_WITH_MODE_BIDA_PHOM_PLAYERS: "CREATE_TABLE_UI_WITH_MODE_BIDA_PHOM_PLAYERS",
+        CREATE_TABLE_UI_PLAY_WITH_FRIEND: "CREATE_TABLE_UI_PLAY_WITH_FRIEND",
+        CREATE_TABLE_ADD_ROOM: "CREATE_TABLE_ADD_ROOM"
+
+    },
+    POPUP_EVENT: {
+
+    },
+
+    GAME_CUSTOM_EVENT: {
+        END_GAME_ANIMATION_FINISH: "SG_GCE_GAME_23",
+        END_GAME_ANIMATION_START: "SG_GCE_GAME_24",
+        //
+        BALL_REQUEST_EXCUTE_COLISION: "GCE_GAME_00",
+        BALL_REQUEST_UPDATE_TMP_POSITION: "GCE_GAME_01",
+        PLAYER_MOVING_KEEP_UPDATING: "GCE_GAME_02",
+        PLAYER_PUSHING_TOGETHER: "GCE_GAME_03",
+        PLAYER_SHOT_GOAL: "GCE_GAME_04",
+        PLAYER_ON_COLISION_FAST: "GCE_GAME_05"
+
+    },
+    PLAYER_STATE: {
+        WAIT: { state: 0, name: "idle" },//DUNG YEN THI THOANG CO VAY CHAY
+        IDLE: { state: 1, name: "idle2" },//DUNG YEN KHONG LAM GI
+        STRAIGHT_SHOT: { state: 2, name: "sut" },//DA THEO DUONG THANG
+        DIPPING_SHOT: { state: 3, name: "sut" },//DA THEO DUONG CONG
+        HEADER_SHOT: { state: 4, name: "danh_dau" },//DANH DAU
+        MOVING_LEFT: { state: 5, name: "lui", step: -650 },//SANG TRAI
+        MOVING_RIGHT: { state: 6, name: "tien", step: 650 },//SANG PHAI
+        JUMPING_UP: { state: 7, name: "nhay" },//NHAY LEN TREN,
+        REQUEST_POSITION: { state: 8, name: "request_position_for_others" }
+    },
+    GAME_TABLE_CONFIG: {
+        MIN_MOVING: -(1280 / 2 - (140 / 2)),
+        MAX_MOVING: (1280 / 2 - (140 / 2.35))//140: width cua player, 1280 la kich thuoc width game
+    },
+    COLISION_PARAMETERS: {
+        PLAYER_SHOOT_STRAIGHT_BALL: 200,
+        PLAYER_SHOOT_PARABOL_BALL: 250,
+        // PLAYER_IMPACT_BALL: 0.1,//chỉ chạm không đá gì hết sử dụng cho cả body và feet chạm quả bóng, tùy thuộc vào độ lớn của vector lực quả bóng
+        PLAYER_IMPACT_BALL: 2,//chỉ chạm không đá gì hết sử dụng cho cả body và feet chạm quả bóng, tùy thuộc vào độ lớn của vector lực quả bóng
+        PLAYER_HEADER_SHOT_BALL: 300,
+        PLAYER_JUMP_SHOT_BALL: 300,
+        //physic
+        lineSpeedRatio: 800,// phải thử, không thử không thể biết
+        ballVelocityLimitMin: 0.1,
+        ballVelocityLimitMax: 5000,
+        pushingPlayerStep: 20,//move 20px;
+    }
+};
+
+module.exports = HeadBallConstant;

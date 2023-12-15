@@ -1,0 +1,54 @@
+// Learn cc.Class:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/class.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/class.html
+// Learn Attribute:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/reference/attributes.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/reference/attributes.html
+// Learn life-cycle callbacks:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/life-cycle-callbacks.html
+var Linker = require('Linker');
+var Utils = require('Utils');
+var SocketConstant = require('SocketConstant');
+var CommonSend = require('CommonSend');
+cc.Class({
+    extends: cc.Component,
+
+    properties: {
+        guide: cc.JsonAsset,
+        contentNode : cc.Node
+    },
+
+    // LIFE-CYCLE CALLBACKS:
+
+    onLoad() {
+        var self = this;
+        this.node.on(cc.Node.EventType.TOUCH_END, () => {
+            //self.node.active = false;
+        }, this);
+    },
+
+    start() {
+
+    },
+    onEnable: function () {
+        // this.stopPropagationOnBackdrop = Utils.Node.stopPropagation(this.backdrop);
+        this.node.stopAllActions();
+        this.node.setScale(0.3);
+        this.node.runAction(cc.spawn([cc.scaleTo(0.3, 1).easing(cc.easeBackOut()), cc.fadeIn(0.3)]));
+    },
+
+    onDisable: function () {
+        // if (this.stopPropagationOnBackdrop) {
+        //     this.stopPropagationOnBackdrop();
+        //     this.stopPropagationOnBackdrop = null;
+        // }
+    },
+    closeBtnClick() {
+        this.node.active = false;
+    },
+    guideBtnClick(event) {
+        
+    }
+    // update (dt) {},
+});

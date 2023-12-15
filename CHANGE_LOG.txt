@@ -1,0 +1,12 @@
+// - = done ; .. = undone;
+3:52 PM 5/18/2019: Doing this.
+- Add Scene XocDia.
+- Add code of XocDia, one by one ->
+- XocDiaBoard.js
+- Remove SceneManager : -> cc.director.getScene().getComponentInChildren("BaseScene"); 
+- Change SocketConnection to XocDiaSend
+- Change SocketReponse to XocDiaParse
+- Change NotificationCenter -> Linker.
+- Add missing asset in Sprite XocDiaScene
+.. Add missing script in XocDiaScene
+- Link Click XocDia to Lobby. 

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Group 31.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{417,343},{158,158}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{158,158}}</string>
+				<key>sourceSize</key>
+				<string>{158,158}</string>
+			</dict>
+
+			<key>Group 32.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{237,386},{179,151}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{179,151}}</string>
+				<key>sourceSize</key>
+				<string>{179,151}</string>
+			</dict>
+
+			<key>Lose.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,229},{174,113}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{174,113}}</string>
+				<key>sourceSize</key>
+				<string>{174,113}</string>
+			</dict>
+
+			<key>Vector Smart Object.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{277,0},{172,142}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{172,142}}</string>
+				<key>sourceSize</key>
+				<string>{172,142}</string>
+			</dict>
+
+			<key>Win.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,386},{236,117}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{236,117}}</string>
+				<key>sourceSize</key>
+				<string>{236,117}</string>
+			</dict>
+
+			<key>—Pngtree—divergent effect_90893.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,229},{244,156}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{244,156}}</string>
+				<key>sourceSize</key>
+				<string>{244,156}</string>
+			</dict>
+
+			<key>图层 1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{276,228}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{276,228}}</string>
+				<key>sourceSize</key>
+				<string>{276,228}</string>
+			</dict>
+
+			<key>图层 3 拷贝 2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{420,143},{33,157}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{33,157}}</string>
+				<key>sourceSize</key>
+				<string>{33,157}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{576,538}</string>
+			<key>textureFileName</key>
+			<string>EffectWinLose.png</string>
+			</dict>
+		</dict>
+</plist>

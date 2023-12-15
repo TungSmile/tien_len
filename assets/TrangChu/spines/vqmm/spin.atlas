@@ -1,0 +1,20 @@
+
+spin.png
+size: 456,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 1 copy 3
+  rotate: false
+  xy: 317, 368
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 313, 452
+  orig: 313, 452
+  offset: 0, 0
+  index: -1

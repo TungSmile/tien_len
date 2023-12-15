@@ -1,0 +1,27 @@
+
+ani_may.png
+size: 480,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+may1
+  rotate: false
+  xy: 2, 216
+  size: 205, 132
+  orig: 205, 132
+  offset: 0, 0
+  index: -1
+may2
+  rotate: false
+  xy: 2, 350
+  size: 245, 128
+  orig: 245, 128
+  offset: 0, 0
+  index: -1
+may3
+  rotate: true
+  xy: 249, 253
+  size: 225, 229
+  orig: 225, 229
+  offset: 0, 0
+  index: -1

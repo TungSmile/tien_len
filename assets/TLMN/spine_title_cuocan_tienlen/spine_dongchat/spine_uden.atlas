@@ -1,0 +1,90 @@
+
+spine_uden.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: false
+  xy: 397, 54
+  size: 85, 34
+  orig: 85, 34
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 2, 2
+  size: 104, 49
+  orig: 104, 49
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 413, 172
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+c4
+  rotate: true
+  xy: 230, 21
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 314, 18
+  size: 85, 34
+  orig: 85, 34
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 138, 87
+  size: 104, 49
+  orig: 104, 49
+  offset: 0, 0
+  index: -1
+c7
+  rotate: false
+  xy: 413, 90
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+c8
+  rotate: false
+  xy: 336, 54
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+lua1
+  rotate: true
+  xy: 244, 82
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+lua2
+  rotate: true
+  xy: 138, 31
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 138
+  size: 409, 114
+  orig: 409, 114
+  offset: 0, 0
+  index: -1
+vm
+  rotate: false
+  xy: 2, 53
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1

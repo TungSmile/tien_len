@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Layer 38.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{448,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{448,77}}</string>
+				<key>sourceSize</key>
+				<string>{448,77}</string>
+			</dict>
+
+			<key>Layer 677.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{293,150},{32,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{32,32}}</string>
+				<key>sourceSize</key>
+				<string>{32,32}</string>
+			</dict>
+
+			<key>Layer 678.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{326,150},{32,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{32,32}}</string>
+				<key>sourceSize</key>
+				<string>{32,32}</string>
+			</dict>
+
+			<key>Layer 707.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,430},{173,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{173,71}}</string>
+				<key>sourceSize</key>
+				<string>{173,71}</string>
+			</dict>
+
+			<key>Layer 710.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{241,196},{180,146}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{180,146}}</string>
+				<key>sourceSize</key>
+				<string>{180,146}</string>
+			</dict>
+
+			<key>bt_dk.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{251,78},{173,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{173,71}}</string>
+				<key>sourceSize</key>
+				<string>{173,71}</string>
+			</dict>
+
+			<key>bt_dn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{241,343},{180,146}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{180,146}}</string>
+				<key>sourceSize</key>
+				<string>{180,146}</string>
+			</dict>
+
+			<key>bt_dn_fb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,78},{250,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{250,59}}</string>
+				<key>sourceSize</key>
+				<string>{250,59}</string>
+			</dict>
+
+			<key>bt_dn_gg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,138},{250,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{250,57}}</string>
+				<key>sourceSize</key>
+				<string>{250,57}</string>
+			</dict>
+
+			<key>button_x.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{174,430},{65,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{65,65}}</string>
+				<key>sourceSize</key>
+				<string>{65,65}</string>
+			</dict>
+
+			<key>checkbox_off.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{391,150},{28,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{28,28}}</string>
+				<key>sourceSize</key>
+				<string>{28,28}</string>
+			</dict>
+
+			<key>checkbox_on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{204,400},{29,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{29,29}}</string>
+				<key>sourceSize</key>
+				<string>{29,29}</string>
+			</dict>
+
+			<key>expfull.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,366},{203,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{203,63}}</string>
+				<key>sourceSize</key>
+				<string>{203,63}</string>
+			</dict>
+
+			<key>icon_next.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{422,201},{24,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{2,2},{24,31}}</string>
+				<key>sourceSize</key>
+				<string>{28,35}</string>
+			</dict>
+
+			<key>icon_nhomk.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{422,150},{50,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{50,50}}</string>
+				<key>sourceSize</key>
+				<string>{50,50}</string>
+			</dict>
+
+			<key>icon_off.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,196},{240,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{240,84}}</string>
+				<key>sourceSize</key>
+				<string>{240,84}</string>
+			</dict>
+
+			<key>icon_on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,281},{240,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{240,84}}</string>
+				<key>sourceSize</key>
+				<string>{240,84}</string>
+			</dict>
+
+			<key>icon_trang_off.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{359,150},{31,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{31,31}}</string>
+				<key>sourceSize</key>
+				<string>{31,31}</string>
+			</dict>
+
+			<key>icon_trang_on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{204,366},{33,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{2,2},{33,33}}</string>
+				<key>sourceSize</key>
+				<string>{37,38}</string>
+			</dict>
+
+			<key>tich.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{251,150},{41,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{41,32}}</string>
+				<key>sourceSize</key>
+				<string>{41,32}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{473,502}</string>
+			<key>textureFileName</key>
+			<string>popup_pack.png</string>
+			</dict>
+		</dict>
+</plist>

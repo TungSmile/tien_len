@@ -1,0 +1,62 @@
+
+ani_laroi.png
+size: 486,486
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: true
+  xy: 2, 209
+  size: 220, 235
+  orig: 220, 235
+  offset: 0, 0
+  index: -1
+gio1
+  rotate: true
+  xy: 239, 197
+  size: 228, 245
+  orig: 228, 245
+  offset: 0, 0
+  index: -1
+la2
+  rotate: false
+  xy: 2, 446
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+la4
+  rotate: false
+  xy: 59, 440
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+la5
+  rotate: true
+  xy: 189, 431
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+la6
+  rotate: false
+  xy: 332, 427
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+la7
+  rotate: false
+  xy: 113, 435
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+la8
+  rotate: false
+  xy: 249, 429
+  size: 81, 55
+  orig: 81, 55
+  offset: 0, 0
+  index: -1

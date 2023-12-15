@@ -1,0 +1,97 @@
+
+Button_chonban.png
+size: 528,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chọn
+  rotate: false
+  xy: 2, 88
+  size: 150, 63
+  orig: 150, 63
+  offset: 0, 0
+  index: -1
+Coin1
+  rotate: false
+  xy: 2, 14
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+back_chonban
+  rotate: false
+  xy: 2, 367
+  size: 470, 159
+  orig: 470, 159
+  offset: 0, 0
+  index: -1
+bàn
+  rotate: false
+  xy: 85, 23
+  size: 112, 63
+  orig: 112, 63
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: true
+  xy: 474, 460
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: true
+  xy: 474, 406
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: false
+  xy: 385, 13
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+coin5
+  rotate: true
+  xy: 474, 360
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+k9AA
+  rotate: true
+  xy: 216, 181
+  size: 177, 147
+  orig: 177, 147
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 153
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+shadow4
+  rotate: false
+  xy: 216, 38
+  size: 167, 141
+  orig: 167, 141
+  offset: 0, 0
+  index: -1
+twinkle
+  rotate: false
+  xy: 365, 185
+  size: 129, 173
+  orig: 129, 173
+  offset: 0, 0
+  index: -1
+twinkle2
+  rotate: false
+  xy: 385, 49
+  size: 123, 134
+  orig: 123, 134
+  offset: 0, 0
+  index: -1

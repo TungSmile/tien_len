@@ -1,0 +1,67 @@
+{
+    "listBackgound": [
+        {
+            "idTheme": 1,
+            "uid": 257622,
+            "isUse": true,
+            "isBought": true,
+            "price": 0
+        },
+        {
+            "idTheme": 2,
+            "uid": 257622,
+            "isUse": false,
+            "isBought": false,
+            "price": 10000
+        },
+        {
+            "idTheme": 3,
+            "uid": 257622,
+            "isUse": false,
+            "isBought": false,
+            "price": 20000
+        },
+        {
+            "idTheme": 4,
+            "uid": 257622,
+            "isUse": false,
+            "isBought": false,
+            "price": 60000
+        },
+        {
+            "idTheme": 5,
+            "uid": 257622,
+            "isUse": false,
+            "isBought": false,
+            "price": 240000
+        },
+        {
+            "idTheme": 6,
+            "uid": 257622,
+            "isUse": false,
+            "isBought": false,
+            "price": 480000
+        },
+        {
+            "idTheme": 7,
+            "uid": 257622,
+            "isUse": false,
+            "isBought": false,
+            "price": 700000
+        },
+        {
+            "idTheme": 8,
+            "uid": 257622,
+            "isUse": false,
+            "isBought": false,
+            "price": 1000000
+        },
+        {
+            "idTheme": 9,
+            "uid": 257622,
+            "isUse": false,
+            "isBought": false,
+            "price": 2000000
+        }
+    ]
+}

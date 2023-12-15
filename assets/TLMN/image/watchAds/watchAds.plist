@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Rounded Rectangle 3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,471},{109,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{109,27}}</string>
+				<key>sourceSize</key>
+				<string>{109,27}</string>
+			</dict>
+
+			<key>active.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{195,286}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{195,286}}</string>
+				<key>sourceSize</key>
+				<string>{195,286}</string>
+			</dict>
+
+			<key>bt_nhanngay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,419},{132,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{132,51}}</string>
+				<key>sourceSize</key>
+				<string>{132,51}</string>
+			</dict>
+
+			<key>bt_nhanxemvideo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,367},{132,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{132,51}}</string>
+				<key>sourceSize</key>
+				<string>{132,51}</string>
+			</dict>
+
+			<key>coin1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{392,100},{97,97}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{97,97}}</string>
+				<key>sourceSize</key>
+				<string>{97,97}</string>
+			</dict>
+
+			<key>coin2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{392,0},{113,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{113,99}}</string>
+				<key>sourceSize</key>
+				<string>{113,99}</string>
+			</dict>
+
+			<key>coin3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{384,287},{116,123}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{116,123}}</string>
+				<key>sourceSize</key>
+				<string>{116,123}</string>
+			</dict>
+
+			<key>coin4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{133,367},{127,139}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{127,139}}</string>
+				<key>sourceSize</key>
+				<string>{127,139}</string>
+			</dict>
+
+			<key>coin5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{261,287},{122,130}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{122,130}}</string>
+				<key>sourceSize</key>
+				<string>{122,130}</string>
+			</dict>
+
+			<key>icon_back.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,287},{155,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{155,79}}</string>
+				<key>sourceSize</key>
+				<string>{155,79}</string>
+			</dict>
+
+			<key>muiten.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{156,287},{30,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{30,41}}</string>
+				<key>sourceSize</key>
+				<string>{30,41}</string>
+			</dict>
+
+			<key>popupcoin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{196,0},{195,286}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{195,286}}</string>
+				<key>sourceSize</key>
+				<string>{195,286}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{506,507}</string>
+			<key>textureFileName</key>
+			<string>watchAds.png</string>
+			</dict>
+		</dict>
+</plist>

@@ -1,0 +1,55 @@
+
+background.png
+size: 1513,1513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chim
+  rotate: true
+  xy: 420, 878
+  size: 72, 58
+  orig: 72, 58
+  offset: 0, 0
+  index: -1
+la1
+  rotate: false
+  xy: 2, 952
+  size: 650, 559
+  orig: 650, 559
+  offset: 0, 0
+  index: -1
+la2
+  rotate: false
+  xy: 2, 481
+  size: 416, 469
+  orig: 416, 469
+  offset: 0, 0
+  index: -1
+la3
+  rotate: false
+  xy: 1262, 972
+  size: 249, 539
+  orig: 249, 539
+  offset: 0, 0
+  index: -1
+la4
+  rotate: false
+  xy: 420, 539
+  size: 606, 337
+  orig: 606, 337
+  offset: 0, 0
+  index: -1
+la5
+  rotate: false
+  xy: 654, 878
+  size: 606, 633
+  orig: 606, 633
+  offset: 0, 0
+  index: -1
+sunshine
+  rotate: false
+  xy: 1028, 571
+  size: 282, 305
+  orig: 282, 305
+  offset: 0, 0
+  index: -1

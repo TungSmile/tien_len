@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>thumb_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{117,111},{116,110}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{116,110}}</string>
+				<key>sourceSize</key>
+				<string>{116,110}</string>
+			</dict>
+
+			<key>thumb_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{234,111},{116,110}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{116,110}}</string>
+				<key>sourceSize</key>
+				<string>{116,110}</string>
+			</dict>
+
+			<key>thumb_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{234,0},{116,110}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{116,110}}</string>
+				<key>sourceSize</key>
+				<string>{116,110}</string>
+			</dict>
+
+			<key>thumb_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{117,222},{116,110}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{116,110}}</string>
+				<key>sourceSize</key>
+				<string>{116,110}</string>
+			</dict>
+
+			<key>thumb_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{234,222},{116,110}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{116,110}}</string>
+				<key>sourceSize</key>
+				<string>{116,110}</string>
+			</dict>
+
+			<key>thumb_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{117,0},{116,110}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{116,110}}</string>
+				<key>sourceSize</key>
+				<string>{116,110}</string>
+			</dict>
+
+			<key>thumb_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,222},{116,110}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{116,110}}</string>
+				<key>sourceSize</key>
+				<string>{116,110}</string>
+			</dict>
+
+			<key>thumb_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,111},{116,110}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{116,110}}</string>
+				<key>sourceSize</key>
+				<string>{116,110}</string>
+			</dict>
+
+			<key>thumb_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{116,110}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{116,110}}</string>
+				<key>sourceSize</key>
+				<string>{116,110}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{351,333}</string>
+			<key>textureFileName</key>
+			<string>list-thumb.png</string>
+			</dict>
+		</dict>
+</plist>

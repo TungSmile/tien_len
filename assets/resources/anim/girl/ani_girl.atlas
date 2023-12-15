@@ -1,0 +1,139 @@
+
+ani_girl.png
+size: 690,690
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bongtai
+  rotate: false
+  xy: 621, 491
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+cangtay_P
+  rotate: false
+  xy: 234, 2
+  size: 93, 207
+  orig: 93, 207
+  offset: 0, 0
+  index: -1
+canhtay_P
+  rotate: false
+  xy: 320, 223
+  size: 289, 85
+  orig: 289, 85
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 432, 467
+  size: 187, 221
+  orig: 187, 221
+  offset: 0, 0
+  index: -1
+keptoc
+  rotate: false
+  xy: 603, 33
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+keptoc_1
+  rotate: false
+  xy: 649, 511
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+keptoc_2
+  rotate: true
+  xy: 462, 38
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1
+keptoc_day1
+  rotate: false
+  xy: 621, 542
+  size: 56, 146
+  orig: 56, 146
+  offset: 0, 0
+  index: -1
+keptoc_day2
+  rotate: true
+  xy: 462, 55
+  size: 27, 131
+  orig: 27, 131
+  offset: 0, 0
+  index: -1
+keptoc_long1
+  rotate: false
+  xy: 320, 310
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+keptoc_long2
+  rotate: true
+  xy: 394, 328
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 2, 4
+  size: 230, 205
+  orig: 230, 205
+  offset: 0, 0
+  index: -1
+long2
+  rotate: false
+  xy: 320, 384
+  size: 110, 304
+  orig: 110, 304
+  offset: 0, 0
+  index: -1
+long2.1
+  rotate: true
+  xy: 329, 15
+  size: 100, 131
+  orig: 100, 131
+  offset: 0, 0
+  index: -1
+long3
+  rotate: false
+  xy: 432, 310
+  size: 209, 155
+  orig: 209, 155
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: true
+  xy: 329, 117
+  size: 104, 292
+  orig: 104, 292
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 211
+  size: 316, 477
+  orig: 316, 477
+  offset: 0, 0
+  index: -1
+tocmai1
+  rotate: false
+  xy: 611, 227
+  size: 22, 81
+  orig: 22, 81
+  offset: 0, 0
+  index: -1
+tocmai2
+  rotate: true
+  xy: 462, 84
+  size: 31, 139
+  orig: 31, 139
+  offset: 0, 0
+  index: -1

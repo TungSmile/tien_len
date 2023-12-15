@@ -1,0 +1,90 @@
+{
+"skeleton": {
+	"hash": "GPJ4UMZc3hniv3N1XLT+VLoLgw8",
+	"spine": "3.8.99",
+	"x": -49.3,
+	"y": 11.75,
+	"width": 153,
+	"height": 120,
+	"images": "./.images/",
+	"audio": "E:/Vuong/TienLen/Button/icon_store"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "SMS", "parent": "root", "x": 39.21, "y": 91.05 },
+	{ "name": "light", "parent": "root", "x": -62.67, "y": 145.45, "scaleX": 1.3799, "scaleY": 1.3799 }
+],
+"slots": [
+	{ "name": "stroe", "bone": "root", "attachment": "stroe" },
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "shadowsms", "bone": "SMS", "attachment": "shadowsms" },
+	{ "name": "clip_store", "bone": "root", "attachment": "clip_store" },
+	{ "name": "icon_store", "bone": "root", "attachment": "icon_store" },
+	{ "name": "light", "bone": "light", "color": "ffffffbe", "attachment": "light" },
+	{ "name": "SMS", "bone": "SMS", "attachment": "SMS" },
+	{ "name": "vong", "bone": "root", "attachment": "vong" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"SMS": {
+				"SMS": { "x": 22.99, "y": -13.8, "width": 69, "height": 51 }
+			},
+			"clip_store": {
+				"clip_store": {
+					"type": "clipping",
+					"end": "light",
+					"vertexCount": 71,
+					"vertices": [ 58.89, 117.93, 54.4, 116.08, 50.97, 117.53, 47.4, 118.85, 40.01, 118.72, 37.37, 115.95, 33.41, 119.65, 30.38, 118.85, 26.81, 118.19, 24.3, 117.93, 19.29, 117.93, 17.57, 115.03, 13.35, 117.67, 7.67, 118.46, 3.84, 118.06, 1.86, 122.55, -1.44, 124.79, -2.49, 128.89, -9.22, 130.73, -16.48, 130.73, -21.76, 125.85, -24.01, 119.91, -25.46, 109.75, -26.91, 105.13, -31, 104.73, -28.63, 107.63, -29.29, 111.73, -32.06, 113.97, -36.02, 114.37, -39.72, 113.71, -42.22, 108.95, -42.36, 104.47, -39.85, 100.37, -36.02, 98.13, -34.04, 96.94, -36.94, 92.19, -37.08, 85.46, -33.64, 75.16, -25.72, 53.25, -22.03, 48.1, -19.92, 46.78, -22.42, 40.97, -21.57, 36.27, -17.39, 31.75, -12.87, 31.23, -13.22, 24.27, -11.83, 18.87, -7.65, 13.13, 2.96, 12.44, 10.79, 17.83, 12.88, 25.14, 10.62, 31.92, 18.97, 31.92, 16.36, 26.88, 18.28, 19.92, 22.8, 14.87, 32.2, 12.61, 40.9, 16.26, 44.55, 24.27, 45.25, 31.23, 42.29, 32.97, 51.51, 39.58, 56.21, 49.32, 57.6, 65.16, 61.78, 88.65, 64.04, 98.22, 72.74, 99.09, 81.44, 102.74, 82.31, 112.14, 79, 117.88, 71.17, 120.14 ],
+					"color": "00ffc5ff"
+				}
+			},
+			"icon_store": {
+				"icon_store": { "x": 19.7, "y": 71.75, "width": 123, "height": 120 }
+			},
+			"light": {
+				"light": { "x": -5.69, "y": 7.21, "width": 100, "height": 89 }
+			},
+			"shadow": {
+				"shadow": { "x": 12.2, "y": 71.75, "width": 123, "height": 120 }
+			},
+			"shadowsms": {
+				"shadowsms": { "x": 29.99, "y": -13.8, "width": 69, "height": 51 }
+			},
+			"stroe": {
+				"stroe": {
+					"type": "clipping",
+					"end": "shadowsms",
+					"vertexCount": 4,
+					"vertices": [ -64.5, 134.7, 108.49, 132.8, 109.31, -9.19, -55.79, -10.82 ],
+					"color": "ce3a3aff"
+				}
+			},
+			"vong": {
+				"vong": { "x": 36.7, "y": 96.25, "width": 12, "height": 17 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"light": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "x": 149.04, "y": -136.44 },
+					{ "time": 1.6333, "x": 174.17, "y": -156.62 }
+				]
+			},
+			"SMS": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": -40.31, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			}
+		}
+	}
+}
+}

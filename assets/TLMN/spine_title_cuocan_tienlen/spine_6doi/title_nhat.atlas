@@ -1,0 +1,90 @@
+
+title_nhat.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: false
+  xy: 881, 62
+  size: 85, 34
+  orig: 85, 34
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 406, 47
+  size: 104, 49
+  orig: 104, 49
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 208, 16
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+c4
+  rotate: true
+  xy: 713, 37
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 406, 11
+  size: 85, 34
+  orig: 85, 34
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 512, 47
+  size: 104, 49
+  orig: 104, 49
+  offset: 0, 0
+  index: -1
+c7
+  rotate: false
+  xy: 307, 16
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+c8
+  rotate: true
+  xy: 797, 37
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+lua1
+  rotate: true
+  xy: 493, 5
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+lua2
+  rotate: true
+  xy: 555, 5
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 2
+  size: 204, 94
+  orig: 204, 94
+  offset: 0, 0
+  index: -1
+vm
+  rotate: false
+  xy: 618, 37
+  size: 93, 59
+  orig: 93, 59
+  offset: 0, 0
+  index: -1

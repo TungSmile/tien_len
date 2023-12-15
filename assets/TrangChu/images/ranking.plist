@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>HomeUI_80.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{687,61},{228,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{228,50}}</string>
+				<key>sourceSize</key>
+				<string>{228,50}</string>
+			</dict>
+
+			<key>facebook.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{687,0},{256,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{256,60}}</string>
+				<key>sourceSize</key>
+				<string>{256,60}</string>
+			</dict>
+
+			<key>itemDiemDanh_.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{687,306},{68,169}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{68,169}}</string>
+				<key>sourceSize</key>
+				<string>{68,169}</string>
+			</dict>
+
+			<key>itemDiemDanh_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,905},{403,8}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{403,8}}</string>
+				<key>sourceSize</key>
+				<string>{403,8}</string>
+			</dict>
+
+			<key>popup_large.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{686,904}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{686,904}}</string>
+				<key>sourceSize</key>
+				<string>{686,904}</string>
+			</dict>
+
+			<key>star_on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{687,112},{194,193}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{194,193}}</string>
+				<key>sourceSize</key>
+				<string>{194,193}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{944,914}</string>
+			<key>textureFileName</key>
+			<string>ranking.png</string>
+			</dict>
+		</dict>
+</plist>

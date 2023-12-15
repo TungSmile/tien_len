@@ -1,0 +1,607 @@
+var Constant = {};
+Constant.TableInfo = {
+    timePlay: {
+        fastPlayDefault: 240000,
+        slowPlayDefault: 240000
+    }
+
+};
+Constant.TableStatus = {
+    PLAY: 1,
+    FULL: 2,
+    WAIT: 3,
+    NEW: 4,
+};
+
+Constant.SEPERATOR = {
+    ELEMENT: '\u0001',
+    ARRAY: '\u0002',
+    DIFF_ARRAY: '\u0003',
+    N4: '\u0004',
+    N5: '\u0005',
+};
+Constant.TAI_XIU = {
+    JOIN_TAI_XIU: "12004",
+    UPDATE_TAI_XIU: "12005",
+    BET_TAI_XIU: "12006",
+    PHIEN_TX_STATE: "12009",
+    CHAT_TAI_XIU: "12012",
+    API_SOI_CAU: "http://apic100.chan100.net/api-soicau",
+    API_aLICH_SU: "http://apic100.chan100.net/api-tx-my-fire",
+};
+Constant.ACTION_THEME = {
+    SELECT_THEME: 1,
+    PAY_THEME: 2,
+    GET_DATA_THEME: 3
+};
+Constant.ERR_THEME = {
+    ERR_NO_LISTBACKGROUND: 1,
+    ERR_PAY: 2,
+    ERR_USE: 3,
+    ERR_UNKNOW: 4,
+    ERR_NO_ENOUGHT_MONEY: 5,
+};
+Constant.GAME_COMMONS_EVENT = {
+    //COMMONS
+    YEU_CAU_DONG_POPUP_THEO_TOGGLE: "CE_COMMONS_1",
+    YEU_CAU_MO_POPUP_DOI_HINH: "CE_COMMONS_2",
+    YEU_CAU_MO_POPUP_CAI_DAT: "CE_COMMONS_3",
+    YEU_CAU_MO_PROFILE_USER: "CE_COMMONS_4",
+    YEU_CAU_MO_POPUP_CUA_HANG: "CE_COMMONS_5",
+    YEU_CAU_MO_POPUP_NAP: "CE_COMMONS_6",
+    YEU_CAU_MO_POPUP_SU_KIEN: "CE_COMMONS_7",
+    YEU_CAU_MO_POPUP_GIFT_CODE: "CE_COMMONS_8",
+    YEU_CAU_MO_POPUP_HOP_THU: "CE_COMMONS_9",
+    YEU_CAU_MO_POPUP_HO_TRO: "CE_COMMONS_10",
+    YEU_CAU_MO_POPUP_LUCKY_DAY: "CE_COMMONS_11",
+    YEU_CAU_MO_POPUP_VQMM: "CE_COMMONS_12",
+    YEU_CAU_MO_POPUP_BAN_BE: "CE_COMMONS_13",
+    YEU_CAU_MO_POPUP_TRO_CHUYEN: "CE_COMMONS_14",
+    YEU_CAU_MO_POPUP_HUONG_DAN: "CE_COMMONS_15",
+    YEU_CAU_BACK_TO_HOME: "CE_COMMONS_16",
+    YEU_CAU_MO_POPUP_CAI_DAT_TRONG_BAN_CHOI: "CE_COMMONS_17",
+    YEU_CAU_KHOI_TAO_LAI_LOBBY: "CE_COMMONS_18",
+    YEU_CAU_REQUEST_THONG_TIN_CAI_DAT: "CE_COMMONS_19",
+    SET_USER_NAME: "CE_COMMONS_20",
+    SET_USER_MONEY: "CE_COMMONS_21",
+    SET_USER_LEVEL: "CE_COMMONS_22",
+    SET_USER_EXP: "CE_COMMONS_23",
+    SET_USER_ID: "CE_COMMONS_24",
+    SET_USER_AVATAR_AS_ID: "CE_COMMONS_25",
+    SET_USER_AVATAR_AS_FRAME: "CE_COMMONS_26",
+    BACK_TO_HOME_GAME: "CE_COMMONS_27",
+    CHANGE_AVATAR: "CE_COMMONS_28",
+    CHANGE_DISPLAY_NAME: "CE_COMMONS_29",
+    OPEN_HOME_MID: "CE_COMMONS_30",
+    CREATE_TABLE_1V1_PLAYERS: "CE_COMMONS_31",
+    CREATE_TABLE_1V4_PLAYERS: "CE_COMMONS_32",
+    OFFLINE_TIME_OUT: "CE_COMMONS_33",
+    SHOW_GAME_LAYER: "CE_COMMONS_34",
+    HIDE_GAME_LAYER: "CE_COMMONS_35",
+    SHOW_HOME_LAYER: "CE_COMMONS_36",
+    SHOW_LOGIN_LAYER: "CE_COMMONS_37",
+    SHOW_LOBBY_LAYER: "CE_COMMONS_38",
+    DA_KHOI_TAO_XONG_BAN_CHOI: "CE_COMMONS_39",
+    YEU_CAU_KHOI_TAO_WORLD_VAT_LY: "CE_COMMONS_40",
+    YEU_CAU_REQUEST_THONG_TIN_CAI_DAT_PORTAL: "CE_COMMONS_41",
+    YEU_CAU_RESET_DANH_SACH_NGUOI_XEM: "CE_COMMONS_42",
+    YEU_CAU_CAP_NHAT_SO_NGUOI_XEM: "CE_COMMONS_43",
+    YEU_CAU_UPDATE_NGUOI_CHOI_VAO_DANH_SACH_NGUOI_XEM: "CE_COMMONS_44",
+    YEU_CAU_XOA_NGUOI_CHOI_NAY_TRONG_DANH_SACH_NGUOI_XEM: "CE_COMMONS_45",
+    UPDATE_MONEY_TYPE: "CE_COMMONS_46",
+    YEU_CAU_MO_POPUP_NO_HU: "CE_COMMONS_47",
+    YEU_CAU_BACK_TO_LOGIN: "CE_COMMONS_48",
+    YEU_CAU_BACK_TO_SPLASH: "CE_COMMONS_48",
+    YEU_CAU_OPEN_HOP_THOAI_DOI_TEN_HIEN_THI: "CE_COMMONS_49",
+    YEU_CAU_MO_HOP_THOAI_MOI_CHOI: "CE_COMMONS_50",
+    YEU_CAU_MO_HOP_THOAI_YEU_CAU_CHOI: "CE_COMMONS_51",
+    YEU_CAU_LOAD_BUNDLE_VA_SCENE_NAME_ACCEPT_INVITE: "CE_COMMONS_52",
+    ON_BUTTON_GAME_HALL_SCENE_CLICK: "CE_COMMONS_53",
+    ON_BUTTON_GAME_BIDA_HALL_SCENE_CLICK: "CE_COMMONS_54",
+    YEU_CAU_MO_POPUP_CHAT_IN_GAME: "CE_COMMONS_55",
+    REQUEST_CANVAS_ENABLE_CHILD_BY_NAME: "CE_COMMONS_56",
+    NGUOI_CHOI_HUY_ROI_BAN_DO_DA_KET_NOI_LAI: "CE_COMMONS_57",
+    YEU_CAU_MO_POPUP_THONG_BAO_CHUNG: "CE_COMMONS_58",
+    RESET_THONG_TIN_CAI_DAT_BAN_CHOI: "CE_COMMONS_59",
+    // by Son
+    YEU_CAU_MO_POPUP_CHAT_SOCIAL: "CE_COMMONS_60",
+    ITEM_ROOM_CHAT_SOCIAL_CLICK: "CE_COMMONS_61",
+    //Ghep doi
+    YEU_CAU_HUY_NODE_GHEP_DOI: "CE_COMMONS_62",
+    YEU_CAU_MO_HOP_THOAI_DAILY_GIFT: "CE_COMMONS_63",
+    YEU_CAU_MO_HOP_THOAI_XAC_NHAN_NHAN_QUA: "CE_COMMONS_64",
+    YEU_CAU_MO_POPUP_NHIEM_VU: "CE_COMMONS_65",
+    YEU_CAU_ROI_BAN_NGAY_LAP_TUC: "CE_COMMONS_66"
+
+};
+Constant.POPUP_EVENT = {
+    FRIEND_ZONE: {
+        OPEN: "OPEN_FRIEND_ZONE",
+        CLOSE: "CLOSE_FRIEND_ZONE",
+        CLOSED: "ClOSED_FRIEND_ZONE",
+        FIND_FRIEND_TAB: {
+            OPEN: "OPEN_FIND_FRIEND_TAB"
+        },
+        INVITE_FRIEND_TAB: {
+            OPEN: "OPEN_INVITE_FRIEND_TAB"
+        }
+    },
+    CHAT_PRIVATE: {
+        OPEN: "OPEN_CHAT",
+        CLOSE: "CLOSE_CHAT",
+        COUNT: "COUNT_CHAT"
+    }
+};
+Constant.GAME_LOBBY_EVENT = {
+    //COMMONS
+    LOBBY_YEU_CAU_LOC_BAN_THEO_MENH_GIA: "SG_GCE_LOBBY_1",
+    LOBBY_YEU_CAU_TAO_BAN_CHOI: "SG_GCE_LOBBY_2",
+    LOBBY_ITEM_BAN_YEU_CAU_BLOCK_SU_KIEN_CLICK: "SG_GCE_LOBBY_3",
+    CREATE_TABLE_ADD_ROOM: "SG_GCE_LOBBY_4",
+    REQUEST_LOBBY_FOR_ZONE_ID_TYPE: "SG_GCE_LOBBY_5",
+    YEU_CAU_ACTIVE_LOBBY: "ACTIVE_LOBBY"
+};
+Constant.TAG = {
+    scenes: {
+        LOGIN: 0,
+        HOME: 1,
+        LOBBY: 2,
+        GAME: 3
+    },
+    action: {
+        COUNT_DOWN_TIME: 100,
+        COUNT_TOTAL_NEW: 200
+    }
+};
+Constant.ZONE_ID = {
+    SOCCER_GALAXY_1VS1: 45,
+    HEAD_BALL_1VS1: 46,
+    FOOTBALL_1VS1: 44,
+    BIDA_1VS1: 8,
+    BIDA_1VS4: 84,
+    BIDA_PHOM: 86,
+    MAU_BINH: 14,
+    TLMN: 5,
+    PHOM: 4,
+    SAM: 37,
+    XOCDIA: 10,
+    BACAY: 11,
+    LIENG: 9,
+    POKER: 15,
+    BAN_SUNG: 48,
+    PHI_DAO: 47,
+    ALL: 9999,
+    UNDEFINED: 0
+};
+Constant.GAME_NAME = {
+    BIDA_8: 1,
+    BIDA_TA_LA: 2,
+    SOCCER: 3,
+    HEADBALL: 4,
+    FOOTBALL: 5,
+    BAN_SUNG: 6,
+    PHI_DAO: 7,
+    POCKER: 8,
+    TLMN: 9,
+    CA_CHEP_HOA_RONG: 10,
+    SLOT_777: 11,
+    BIDA: 12,
+    TAY_DU_KY: 13,
+    NUOI_CA: 14,
+    SLOT_CANDY: 15,
+    UNDEFINED: 0
+};
+Constant.BUNDLE_NAME = {
+    BIDA: 1,
+    SOCCER: 2,
+    HEAD_BALL: 3,
+    FOOT_BALL: 4,
+    BAN_SUNG: 5,
+    PHI_DAO: 6,
+    POCKER: 7,
+    CA_CHEP_HOA_RONG: 8,
+    SLOT_777: 9,
+    TRANG_CHU: 10,
+    HEROES_BALL: 11,
+    TLMN: 12,
+    PHOM: 13,
+    MAUBINH: 14,
+    TAY_DU_KY: 15,
+    TAI_XIU: 16,
+    MINI_POKER: 17,
+    MINI_SLOT: 18,
+    NUOI_CA: 19,
+    SLOT_CANDY: 20,
+    TLMN: 21,
+    UNDEFINED: 0
+};
+Constant.BUNDLE = {
+    HEROES_BALL: {
+        name: "heroesBall"
+    },
+    BIDA: {
+        name: "bida"
+    },
+    FOOT_BALL: {
+        name: "FootBall"
+    },
+    SOCCER_GALAXY: {
+        name: "soccerGalaxy"
+    },
+    HEAD_BAL: {
+        name: "HeadBall"
+    },
+    TLMN: {
+        name: "TLMN"
+    },
+    PHOM: {
+        name: "phom"
+    },
+    MAUBINH: {
+        name: "maubinh"
+    },
+    TAY_DU_KY: {
+        name: "tayduky"
+    },
+    TAI_XIU: {
+        name: "tai_xiu"
+    },
+    MINI_POKER: {
+        name: "minipoker"
+    },
+    MINI_SLOT: {
+        name: "minislot"
+    },
+    CA_CHEP_HOA_RONG: {
+        name: "dragonlegend"
+    },
+    VQMM: {
+        name: "vqmm"
+    },
+    NUOI_CA: {
+        name: "nuoica"
+    },
+    CONG_KICH_CUONG_BAO: {
+        name: "CongKichCuongBao"
+    },
+    BAN_SUNG: {
+        name: "CongKichCuongBao"
+    },
+    PHI_DAO: {
+        name: "PhiDao"
+    },
+    POCKER: {
+        name: "TrangChu"
+    },
+    TRANG_CHU: {
+        name: "TrangChu"
+    },
+    POKER: {
+        name: "Poker"
+    },
+    LARVA: {
+        name: "larva"
+    },
+    SLOT_CANDY: {
+        name: "larva"
+    }
+};
+Constant.GOOGLE_PLAY = {
+    GOLD: 1,
+    RUBY: 2
+};
+Constant.HEADER_CONTROLLER_TAG = new cc.Enum({
+    HOME: 1,
+    SEARCH_IN_CHAT: 2,
+    SEARCH_IN_GLOBAL: 3,
+    CHAT: 4,
+    SCROLL_LIST_ROOM: 5,
+    SCROLL_LIST_CHAT: 6,
+    SCROLL_LIST_FRIEND: 7,
+    SCROLL_LIST_ROOM_SEARCH: 8
+});
+Constant.stateItemLobby = new cc.Enum({ OPEN: 1, BLOCK: 2, COMMING_SOON: 3, HEAD: 4, TAIL: 5 });
+Constant.FRIEND_ZONE = {
+    // status 0 lay tat , status: 1 bạn bè, 2 những lời mời kết bạn, 3 list friend online
+    GET_TAT_CA_NGUOI_CHOI_LA_BAN_BE_KET_CA_LOI_MOI: 0,
+    GET_TAT_CA_LA_BAN_BE: 1,
+    GET_TAT_CA_LOI_MOI_KET_BAN: 2,
+    GET_TAT_CA_BAN_BE_DANG_ON_LINE: 3
+};
+Constant.CMD = {
+
+    ON_CONNECTION: "ON_CONNECTION",
+    LOST_CONNECTION: "LOST_CONNECTION",
+    ONCHANGE_AVATAR: "ONCHANGE_AVATAR",
+    ON_GET_PHONE_NUMBER: "ON_GET_PHONE_NUMBER",
+
+    CONFIG_DATA: "14004",
+    XOCDIA_BET: "13006",
+    XOCDIA_CANCUA: "13007",
+    XOCDIA_REQUEST_OWNER: "13008",
+    XOCDIA_DUOICUA: "13009",
+    XOCDIA_BANCUA: "13001",
+    XOCDIA_MUACUA: "13002",
+    XOCDIA_OWNER_CANCUA: "13003",
+    XOCDIA_HISTORY: "13004",
+    XOCDIA_LOST_CONNECT: "132203",
+    AGENCY_LIST: "12011",
+    CHANGE_NAME: "14000",
+    ZONE_LIST: "14001",
+    DATA_EVENT: "14002",
+
+    CANCEL_TAIXIU: "12008",
+    LAST_MATCH_TX: "12010",
+    BET_MONEY_TX: "12006",
+    IAP: "12003",
+    GET_XU: "203",
+    QUANG_CAO: "51",
+    GET_PI: "50",
+    GET_GUITANG: "54",
+    CACHE_ROOM: "55",
+    GET_EVENT: "57",
+    JOIN_TAI_XIU: "12004",
+    GET_MAIL_LIST: "400002",
+    GET_MAIL_DETAIL: "400003",
+    GET_EVENT_DETAIL: "58",
+    GET_EVENT_IMAGE: "59",
+    ALTP_CAUHOI: "60",
+    ALTP_ANSWER: "62",
+    ALTP_HELP: "61",
+    ALTP_OK: "63",
+    DHBC_XONG: "65",
+    MOI_CHOI: "71",
+    ACCEP_MOI_CHOI: "72",
+    TU_CHOI_ALL: "75",
+    CACHE_IMAGE: "76",
+    GET_ACCOUNT: "78",
+    DELETE_MESSAGE: "79",
+    VONG_QUAY: "80",
+    LIST_ACHIEVEMENT: "81",
+    LIST_DETAIL: "82",
+    GET_GIFT_CODE: "83",
+    LOTO_LIST_XS: "90",
+    LOTO_CONTENT: "91",
+    LOTO_PUT: "92",
+    LOTO_HISTORY: "93",
+    QUAY_LAI_GD: "200",
+    CHAT_GD: "201",
+    HISTORY_GD: "202",
+    LOGIN: "1000",
+    FAST_LOGIN: "10001",
+    FB_LOGIN: "100001",
+    DELETE_ACCOUNT: "1001",
+    CHANGE_PSW: "10901",
+    INVITE_INSTALL: "12001",
+    GIFT_CODE: "12000",
+    UPDATE_PHONE_ACCOUNTKIT: "12014",
+    USER_LOG: "14003",
+    ADMOB: "12015",
+    // 1100
+    REGISTER_ACCOUNT: "1115",
+    MATCH_NEW: "1100",
+    MATCH_INVITED: "1101",
+    MATCH_REPLY: "1102",
+    MATCH_CANCEL: "1103",
+    MATCH_TURN: "1104",
+    MATCH_JOIN: "1105",
+    MATCH_JOINED: "1106",
+    NEW_ENTER_ZONE: "110701",
+    ENTER_ZONE: "1107",
+    TRANSFER: "12010",
+    // send and get back from server game's start if true game started
+    MATCH_START: "1108",
+    MATCH_STARTED: "1109",
+    MATCH_READY: "1110",
+    GET_POKER: "1112",
+    MATCH_RESTART: "1113",
+    MATCH_END: "1114",
+    OUT: "1116",
+    KICK_OUT: "1117",
+    ADD_FRIEND_BY_NAME: "1122",
+    UPDATE_USER_INFO: "1123",
+    SUGGESTION: "1124",
+    // Phom - book
+    BOC_PHOM: "1125",
+    AN_PHOM: "1126",
+    HA_PHOM: "1127",
+    GUI_PHOM: "1128",
+    MATCH_TIMEOUT: "1129",
+    SET_MINBET: "1130",
+    // 1200
+    // lists
+    GET_AVATAR_LIST: "1202",
+    GET_FRIEND_LIST: "1203",
+    ADD_FRIEND: "1204",
+    REMOVE_FRIEND: "1205",
+    TRANSFER_CASH: "1206",
+    GET_RICHESTS: "1207",
+    TOP_EXPEST: "1208",
+    GET_MOST_PLAYING: "1209",
+    GET_USER_INFO: "1210",
+    GET_FREE_USER_LIST: "1212",
+    JOIN_PLAYER: "1213",
+    ACCEPT_JOIN_PLAYER: "1214",
+    MATCH_PEACE: "1215",
+    MATCH_PEACE_ACCEPT: "1216",
+    MATCH_LOST: "1217",
+    PING: "1",
+    EXPIRE: "9999",
+    ENTER_ZONE_NEW: "1240",
+    GET_TABLES: "1241",
+    FAST_PLAY: "1246",
+    SETTING_GAME: "1242",
+    SEND_MESSAGE: "1247",
+    GET_MESSAGE: "1248",
+    UPLOAD_AVATAR: "2",
+    GET_IMAGE: "1250",
+    OUT_TABLE: "1252",
+    // 1300
+    // chat
+    CHAT: "1300",
+    CHAT_PRIVATE: "1301",
+    // 1400
+    // Buy
+    BUY_AVATAR: "1400",
+    // 1500
+    POST_LIST: "1500",
+    POST_DETAIL: "1501",
+    POST_NEW: "1502",
+    COMMENT_POST: "1503",
+    OFFLINE_MESSAGE: "1504",
+    LOGOUT: "1505",
+    GET_CHARGING: "1506",
+    READ_MESSAGE: "1507",
+    CONFIRM: "1508",
+    WARNING: "1509",
+    // 1600
+    // LINE
+    // update game
+    LINE_EAT: "1600",// match id, so quan an number
+    SEND_MY_LINE: "1601",// gui man hinh cua minh
+
+    LINE_END_MATCH: "1602",// match id, man hinh cua no,
+    // thang thua,
+    REQUEST_LINE: "1603",// request Line: match_id, tra
+    // ve chinh la man hinh cua doi
+    // phuong
+    PIKACHU_HELP: "1604",
+    // for News
+    FINISH_PUT_MONEY: "2000",
+    QUAY_DIA: "1245",
+    Challenge: "2001",
+    NAPTIEN: "4000",
+    CANCEL_TO: "2003",
+    REJECTPUTMONEY_TO_BIEN: "2004",
+    GET_BEST_EVENT: "3000",
+    // EURO
+    BEST_EURO: "3501",
+    HISTORY_BEST_EURO: "3504",
+    DETAIL_BEST_EURO: "3505",
+    LIST_TRAN_BD: "3500",
+    KQ_GIAI_BD: "3506",
+    LIST_GIAI_BD: "3507",
+    TOP_RICH_EURO: "3503",
+    LIST_GIAI_DAU: "17000",
+    DK_GIAI_DAU: "17001",
+    LG_GIAI_DAU: "17002",
+    TOP_GIAI_DAU: "17003",
+    INFO_GIAI_DAU: "17004",
+    RECONNECTION: "3",
+    // for VIVU
+    VIVU_SET_AREA: "8001",
+    VIVU_MOVE: "8003",
+    VIVU_STATUS: "8004",
+    VIVU_CHAT: "8005",
+    VIVU_TRADE: "8006",
+    VIVU_REMOVE_USER: "8007",
+    VIVU_GET_GROUP: "8008",
+    VIVU_CHANGE_GROUP: "8009",
+    VIVU_APPEAR: "8010",
+    VIVU_GET_ITEMS: "5",
+    VIVU_BUY_ITEMS: "6",
+    // EURO
+    GET_BEST_EURO: "3500",
+    TOP_EURO: "3502",
+    // MXH
+    LIST_BLOG: "7000",
+    GET_BLOG: "7001",
+    GET_POST: "7002",
+    CREATE_POST: "7003",
+    UPDATE_POST: "7004",
+    INSERT_COMMENT: "7020",
+    GET_LIST_ALBUM: "7030",
+    GET_ALBUM: "7031",
+    GET_ICON: "7032",
+    GET_IMAGE_ALBUM: "7034",
+    GET_IMAGE_DETAIL: "7035",
+    NEW_ALBUM: "7033",
+    // chat
+    CHAT_GET_LIST: "7036",
+    CHAT_ENTER: "7037",
+    CHAT_SEND_MESS_ROOM: "7038",
+    CHAT_LIST_USER: "7039",
+    CHAT_OUT_ROOM: "70",
+    // common
+    SET_AVATAR: "7040",
+    GET_AVATAR: "7041",
+    ADD_FRIEND_BLOG: "7010",
+    GET_LIST_REQUEST_FRIEND: "7051",
+    GET_WALL: "7045",
+    ADD_LIKE: "7047",
+    GET_LIST_COMMENT: "7046",
+    GET_TOP_ALBUM: "7055",
+    GET_TOP_BLOG: "7054",
+    GET_TOP_BLOGER: "7053",
+    GET_NEW_BLOG: "7052",
+    GET_NEW_ALBUM: "94",
+    FLOW_USER: "95",
+    GET_BOARD: "96",
+    LIST_DUTIES: "97",
+    DETAIL_DUTIES: "98",
+    ReceiveDuty: "103",
+    ResultDuty: "100",
+    DoneDuty: "99",
+    GAME_OTHER: "101",
+    Recommend: "102",
+
+    GET_TOP_IMAGE: "7056",
+    GET_FRIEND_LIST_BLOG: "7057",
+    DELETE_ITEM: "7050",
+    GET_NUM_MESS: "7062",
+    UPDATE_USER_MXH: "7063",
+    UPDATE_CASH_AFTER_CHARGED: "121002",
+    UPDATE_WHEN_WITHDRAW_MONEY: "121010",
+    // news
+    NEWS_CATEGORY: "7058",
+    NEWS_TITLES: "7059",
+    NEWS_DETAIL: "7060",
+    NEWS_IMAGE: "7061",
+    // boi
+    VIVU_BOI: "251",
+    // city,job
+    VIVU_CITY: "4",
+    GET_USER_VIVU: "7",
+    FIND_USER_VIVU: "8",
+    POST_WALL: "7044",
+    // SWITCH :"9003",
+    BAO_SAM: "1131",
+
+    RE_PASSWORK: "109",
+
+    PIKA_TOPIC: "262",
+    PIKA_DETAIL_TOPIC: "263",
+
+    REWARD_LIST: "253",
+    GET_REWARD_CASH: "254",
+
+    PARNER_ID: "1",
+
+    GET_LIST_FREE: "1212",
+    GET_PLAYER_INFO: "121001",
+    CHANGE_PLAYER_INFO: "1123",
+    UPDATE_FB_SHARE: "121003",
+    GIFT_BOX: "5701",
+
+    OVER_ASK: "160401",
+    ITEM_VATPHAM: "2",
+    ITEM_CARD: 1,
+    GET_ITEM_SHOP: "400004",
+    GET_ORDER_HISTORY: "400007",
+    UPDATE_PHONE: "400008",
+    ITEM_ORDER: "400005",
+    CANCEL_ITEM_ORDER: "400006",
+
+    SORT_DONE: "1245",
+    BAO_MAU_BINH: "121005",
+    SO_CHI: "121006",
+    SO_SAP_HAM: "121009",
+
+    GUEST_JOIN: "121007",
+    GUEST_STAND: "121008",
+    // VQMM
+    VQMM_PLAY: "80",
+};
+
+module.exports = Constant;
+

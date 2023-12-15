@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Group 81.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,257},{120,89}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{120,89}}</string>
+				<key>sourceSize</key>
+				<string>{120,89}</string>
+			</dict>
+
+			<key>Group 82.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,81},{120,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{120,85}}</string>
+				<key>sourceSize</key>
+				<string>{120,85}</string>
+			</dict>
+
+			<key>Group 83.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,169},{120,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{120,87}}</string>
+				<key>sourceSize</key>
+				<string>{120,87}</string>
+			</dict>
+
+			<key>Group 84.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,81},{120,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{120,87}}</string>
+				<key>sourceSize</key>
+				<string>{120,87}</string>
+			</dict>
+
+			<key>Group 85.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,167},{120,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{120,87}}</string>
+				<key>sourceSize</key>
+				<string>{120,87}</string>
+			</dict>
+
+			<key>Group 86.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{242,168},{120,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{120,87}}</string>
+				<key>sourceSize</key>
+				<string>{120,87}</string>
+			</dict>
+
+			<key>Group 87.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{242,80},{120,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{120,87}}</string>
+				<key>sourceSize</key>
+				<string>{120,87}</string>
+			</dict>
+
+			<key>Group 88.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{215,0},{120,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{120,79}}</string>
+				<key>sourceSize</key>
+				<string>{120,79}</string>
+			</dict>
+
+			<key>Group 89.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,255},{120,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{120,79}}</string>
+				<key>sourceSize</key>
+				<string>{120,79}</string>
+			</dict>
+
+			<key>Group 90.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{242,256},{120,93}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{120,93}}</string>
+				<key>sourceSize</key>
+				<string>{120,93}</string>
+			</dict>
+
+			<key>Layer 138.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{214,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{214,80}}</string>
+				<key>sourceSize</key>
+				<string>{214,80}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{363,350}</string>
+			<key>textureFileName</key>
+			<string>itemscene.png</string>
+			</dict>
+		</dict>
+</plist>

@@ -1,0 +1,9 @@
+{
+   "policy": {
+      "policy": {
+         "content": "1. Tên đăng kí không được có ký tự đặc biệt (?.! dấu cách...) và không liên quan đến bộ phận quản lý hay người điều hành (vd: admin, admjn, quanly...)\n\t\t\t2. Mật khẩu, và tên tài khoản đăng nhập được sử dụng để đăng nhập vào game và phải có ít nhất 6 ký tự.  Mật khẩu nên có cả chữ và số để bảo mật được tốt hơn.\n\t\t\t3. Không được sử dụng bất kỳ chương trình, công cụ hay hình thức nào khác để can thiệp vào trò chơi hay làm thay đổi kết quả chơi bình thường (hack, cheat, bots... ). Khi vi phạm BQT có quyền xóa, khóa tài khoản mà không cần thông báo và sự đồng ý của người sử dụng.\n\t\t\t4. Tuyệt đối nghiêm cấm mọi hành vi tuyên truyền, chống phá và xuyên tạc chính quyền, thể chế chính trị, và các chính sách của nhà nước.\n\t\t\t5. Nghiêm cấm việc xúc phạm, nhạo báng người khác dưới bất kỳ hình thức nào (nhạo báng, chê bai, kỳ thị tôn giáo, giới tính, sắc tộc... ).\n\t\t\t6. Mọi vi phạm BQT có quyền khóa, xóa thay đổi tài khoản, chuyển cho Cơ quan chức năng giải quyết theo quy định của pháp luật (nếu cần) mà không cần sự đồng ý của người sử dụng.\n\t\t\t7. Trường hợp bất khả kháng như chập điện, hư hỏng phần cứng, phần mềm, thiên tai... người dùng phải chấp nhận những thiệt hại nếu có.\n\t\t\t8. Nghiêm cấm mua bán Xu trong game giữa các thành viên dưới mọi hình thức.\n\t\t\t9. Thông tin số điện thoại người dùng nhập vào phục vụ cho mục đích xác minh tài khoản.\n\t\t\t10. Thông tin cá nhân của khách hàng sẽ được chúng tôi bảo mật, không bán hay trao đổi những thông tin này với bất kỳ một bên thứ ba nào khác.\n\t\t\t11. Khi tích vào mục đồng ý với điều khoản tức là bạn đã đọc và hiểu các điều khoản nêu trên và đồng ý bị ràng buộc bởi các điều khoản đó khi chơi game.",
+         "_id": "0",
+         "_name": "policy"
+      }
+   }
+}

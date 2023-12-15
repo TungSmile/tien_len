@@ -1,0 +1,111 @@
+
+title_cong.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: false
+  xy: 835, 72
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 493, 58
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 223, 31
+  size: 87, 72
+  orig: 87, 72
+  offset: 0, 0
+  index: -1
+c4
+  rotate: true
+  xy: 683, 50
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 913, 72
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 588, 58
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+c7
+  rotate: false
+  xy: 312, 31
+  size: 87, 72
+  orig: 87, 72
+  offset: 0, 0
+  index: -1
+c8
+  rotate: true
+  xy: 759, 50
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 223, 6
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 223, 6
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 223, 6
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+t4
+  rotate: false
+  xy: 223, 6
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+t5
+  rotate: false
+  xy: 223, 6
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 2
+  size: 219, 101
+  orig: 219, 101
+  offset: 0, 0
+  index: -1
+vm
+  rotate: false
+  xy: 401, 52
+  size: 90, 51
+  orig: 90, 51
+  offset: 0, 0
+  index: -1

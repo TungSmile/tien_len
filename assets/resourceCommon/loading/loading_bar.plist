@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>icon_bi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{753,0},{51,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{51,51}}</string>
+				<key>sourceSize</key>
+				<string>{51,51}</string>
+			</dict>
+
+			<key>icon_line_biloading.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{753,52},{48,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{48,48}}</string>
+				<key>sourceSize</key>
+				<string>{48,48}</string>
+			</dict>
+
+			<key>loading.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,46},{640,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{6,5},{640,37}}</string>
+				<key>sourceSize</key>
+				<string>{651,47}</string>
+			</dict>
+
+			<key>luar_tren.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{641,46},{111,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{111,54}}</string>
+				<key>sourceSize</key>
+				<string>{111,54}</string>
+			</dict>
+
+			<key>popup_loading.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{644,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{7,7},{644,45}}</string>
+				<key>sourceSize</key>
+				<string>{658,55}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{1024,128}</string>
+			<key>textureFileName</key>
+			<string>loading_bar.png</string>
+			</dict>
+		</dict>
+</plist>

@@ -1,0 +1,11 @@
+node version_generator_faco.js -v 1.0.0 -u https://faco.club/resources/remote-assets/ -s build/jsb-link/ -d remote-asset/
+--------------
+ios
+node version_generator_faco_ios.js -v 1.0.4 -u https://faco.club/resources_ios/remote-assets/ -s build/jsb-link/ -d remote-asset/
+
+---king bida---
+node version_kingbida.js -v 1.0.0 -u http://tai.chanvuong.net/resources_kingbida/remote-assets/ -s build/jsb-link/ -d remoteAll/kingbida_android/remote-asset/
+
+
+node version_generator.js -v 1.0.0 -u http://tai.chanvuong.net/remote-sime-android/ -s buildAll/sime/jsb-link/ -d remoteAll/sime_android
+node version_generator.js -v 1.0.0 -u http://tai.chanvuong.net/remote-dream-android/ -s buildAll/dream/jsb-link/ -d remoteAll/dream_android

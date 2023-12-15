@@ -1,0 +1,41 @@
+
+ani_chim.png
+size: 97,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chim1
+  rotate: false
+  xy: 2, 71
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+chim2
+  rotate: true
+  xy: 61, 64
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+chim3
+  rotate: false
+  xy: 2, 30
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+chim4
+  rotate: false
+  xy: 50, 27
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+chim5
+  rotate: false
+  xy: 28, 66
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1

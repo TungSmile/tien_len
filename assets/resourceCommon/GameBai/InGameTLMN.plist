@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>CardBack.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{608,590},{76,105}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{76,105}}</string>
+				<key>sourceSize</key>
+				<string>{76,105}</string>
+			</dict>
+
+			<key>Chủ nhà.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{351,214},{30,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{30,30}}</string>
+				<key>sourceSize</key>
+				<string>{30,30}</string>
+			</dict>
+
+			<key>Ellipse 1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{466,107},{29,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{29,29}}</string>
+				<key>sourceSize</key>
+				<string>{29,29}</string>
+			</dict>
+
+			<key>Ellipse 507.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{473,382},{106,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{106,106}}</string>
+				<key>sourceSize</key>
+				<string>{106,106}</string>
+			</dict>
+
+			<key>Ellipse 6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{348,661},{46,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{46,46}}</string>
+				<key>sourceSize</key>
+				<string>{46,46}</string>
+			</dict>
+
+			<key>Group 1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{400,167},{107,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{107,107}}</string>
+				<key>sourceSize</key>
+				<string>{107,107}</string>
+			</dict>
+
+			<key>Group 26.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,486},{156,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{156,75}}</string>
+				<key>sourceSize</key>
+				<string>{156,75}</string>
+			</dict>
+
+			<key>Group 7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{359,392},{113,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{113,126}}</string>
+				<key>sourceSize</key>
+				<string>{113,126}</string>
+			</dict>
+
+			<key>Group 8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{575,209},{62,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{62,62}}</string>
+				<key>sourceSize</key>
+				<string>{62,62}</string>
+			</dict>
+
+			<key>Jackpot.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{242,438},{116,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{116,108}}</string>
+				<key>sourceSize</key>
+				<string>{116,108}</string>
+			</dict>
+
+			<key>Layer 1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,688},{24,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{24,22}}</string>
+				<key>sourceSize</key>
+				<string>{24,22}</string>
+			</dict>
+
+			<key>Layer 131.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,703},{63,7}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{63,7}}</string>
+				<key>sourceSize</key>
+				<string>{63,7}</string>
+			</dict>
+
+			<key>Layer 133.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{638,99},{57,154}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{57,154}}</string>
+				<key>sourceSize</key>
+				<string>{57,154}</string>
+			</dict>
+
+			<key>Layer 134.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{609,476},{57,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{57,74}}</string>
+				<key>sourceSize</key>
+				<string>{57,74}</string>
+			</dict>
+
+			<key>Layer 135.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{246,319},{36,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{36,32}}</string>
+				<key>sourceSize</key>
+				<string>{36,32}</string>
+			</dict>
+
+			<key>Layer 139.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{157,486},{72,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{72,70}}</string>
+				<key>sourceSize</key>
+				<string>{72,70}</string>
+			</dict>
+
+			<key>Layer 15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{508,489},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{100,100}}</string>
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+
+			<key>Layer 2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{231,688},{17,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{17,23}}</string>
+				<key>sourceSize</key>
+				<string>{17,23}</string>
+			</dict>
+
+			<key>Layer 20.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{508,107},{101,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{101,101}}</string>
+				<key>sourceSize</key>
+				<string>{101,101}</string>
+			</dict>
+
+			<key>Layer 207.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{64,688},{26,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{26,25}}</string>
+				<key>sourceSize</key>
+				<string>{26,25}</string>
+			</dict>
+
+			<key>Layer 3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{117,688},{25,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{25,22}}</string>
+				<key>sourceSize</key>
+				<string>{25,22}</string>
+			</dict>
+
+			<key>Layer 30.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{508,590},{99,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{99,98}}</string>
+				<key>sourceSize</key>
+				<string>{99,98}</string>
+			</dict>
+
+			<key>Layer 32.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{507,275},{102,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{102,101}}</string>
+				<key>sourceSize</key>
+				<string>{102,101}</string>
+			</dict>
+
+			<key>Layer 4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{91,688},{25,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{25,23}}</string>
+				<key>sourceSize</key>
+				<string>{25,23}</string>
+			</dict>
+
+			<key>Layer 42.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{401,626},{69,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{69,76}}</string>
+				<key>sourceSize</key>
+				<string>{69,76}</string>
+			</dict>
+
+			<key>Layer 43.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{610,272},{54,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{54,54}}</string>
+				<key>sourceSize</key>
+				<string>{54,54}</string>
+			</dict>
+
+			<key>Layer 44.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{285,661},{62,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{62,54}}</string>
+				<key>sourceSize</key>
+				<string>{62,54}</string>
+			</dict>
+
+			<key>Layer 45.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,562},{142,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{142,62}}</string>
+				<key>sourceSize</key>
+				<string>{142,62}</string>
+			</dict>
+
+			<key>Layer 46.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,625},{141,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{141,62}}</string>
+				<key>sourceSize</key>
+				<string>{141,62}</string>
+			</dict>
+
+			<key>Layer 5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{249,688},{17,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{17,22}}</string>
+				<key>sourceSize</key>
+				<string>{17,22}</string>
+			</dict>
+
+			<key>Layer 6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{168,688},{23,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{23,23}}</string>
+				<key>sourceSize</key>
+				<string>{23,23}</string>
+			</dict>
+
+			<key>Layer135.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{246,352},{34,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{34,31}}</string>
+				<key>sourceSize</key>
+				<string>{34,31}</string>
+			</dict>
+
+			<key>Mặt sau bài.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{351,0},{114,166}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{114,166}}</string>
+				<key>sourceSize</key>
+				<string>{114,166}</string>
+			</dict>
+
+			<key>Rounded Rectangle 1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,438},{241,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{241,47}}</string>
+				<key>sourceSize</key>
+				<string>{241,47}</string>
+			</dict>
+
+			<key>aaa.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,266},{283,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{283,52}}</string>
+				<key>sourceSize</key>
+				<string>{283,52}</string>
+			</dict>
+
+			<key>broken.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{350,265}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{350,265}}</string>
+				<key>sourceSize</key>
+				<string>{350,265}</string>
+			</dict>
+
+			<key>buttonDanh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,625},{142,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{142,62}}</string>
+				<key>sourceSize</key>
+				<string>{142,62}</string>
+			</dict>
+
+			<key>buttonFold.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,562},{141,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{141,62}}</string>
+				<key>sourceSize</key>
+				<string>{141,62}</string>
+			</dict>
+
+			<key>countCard.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{351,167},{46,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{46,46}}</string>
+				<key>sourceSize</key>
+				<string>{46,46}</string>
+			</dict>
+
+			<key>effectturn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{284,266},{115,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{115,125}}</string>
+				<key>sourceSize</key>
+				<string>{115,125}</string>
+			</dict>
+
+			<key>iconLevel.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{246,392},{50,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{50,33}}</string>
+				<key>sourceSize</key>
+				<string>{50,33}</string>
+			</dict>
+
+			<key>iconThoatBan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{508,209},{66,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{66,64}}</string>
+				<key>sourceSize</key>
+				<string>{66,64}</string>
+			</dict>
+
+			<key>layerDangKyThoat.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{580,377},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{98,98}}</string>
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+
+			<key>layerNormalState.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{573,0},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{98,98}}</string>
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+
+			<key>rô.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{192,688},{19,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{19,22}}</string>
+				<key>sourceSize</key>
+				<string>{19,22}</string>
+			</dict>
+
+			<key>time_green.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{285,547},{115,113}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{115,113}}</string>
+				<key>sourceSize</key>
+				<string>{115,113}</string>
+			</dict>
+
+			<key>time_red.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{466,0},{106,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{106,106}}</string>
+				<key>sourceSize</key>
+				<string>{106,106}</string>
+			</dict>
+
+			<key>time_yellow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{401,519},{106,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{106,106}}</string>
+				<key>sourceSize</key>
+				<string>{106,106}</string>
+			</dict>
+
+			<key>titleTLMN.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,319},{245,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{245,118}}</string>
+				<key>sourceSize</key>
+				<string>{245,118}</string>
+			</dict>
+
+			<key>wifi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{297,392},{40,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{40,31}}</string>
+				<key>sourceSize</key>
+				<string>{40,31}</string>
+			</dict>
+
+			<key>xep.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{400,275},{106,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{106,106}}</string>
+				<key>sourceSize</key>
+				<string>{106,106}</string>
+			</dict>
+
+			<key>—Pngtree—poker four colors_1541259.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{212,688},{18,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{18,23}}</string>
+				<key>sourceSize</key>
+				<string>{18,23}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{696,716}</string>
+			<key>textureFileName</key>
+			<string>InGameTLMN.png</string>
+			</dict>
+		</dict>
+</plist>

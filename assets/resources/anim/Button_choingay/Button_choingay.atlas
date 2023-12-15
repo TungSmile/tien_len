@@ -1,0 +1,104 @@
+
+Button_choingay.png
+size: 572,572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chơi
+  rotate: false
+  xy: 216, 154
+  size: 135, 67
+  orig: 135, 67
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 462, 125
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+K1
+  rotate: false
+  xy: 455, 33
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+Q
+  rotate: true
+  xy: 353, 131
+  size: 85, 107
+  orig: 85, 107
+  offset: 0, 0
+  index: -1
+Q1
+  rotate: false
+  xy: 495, 366
+  size: 58, 102
+  orig: 58, 102
+  offset: 0, 0
+  index: -1
+back_choingay
+  rotate: false
+  xy: 2, 393
+  size: 471, 177
+  orig: 471, 177
+  offset: 0, 0
+  index: -1
+chem
+  rotate: false
+  xy: 2, 9
+  size: 143, 168
+  orig: 143, 168
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 179
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+ngay
+  rotate: true
+  xy: 147, 34
+  size: 143, 61
+  orig: 143, 61
+  offset: 0, 0
+  index: -1
+shadow1
+  rotate: true
+  xy: 346, 43
+  size: 86, 107
+  orig: 86, 107
+  offset: 0, 0
+  index: -1
+shadow2
+  rotate: true
+  xy: 475, 470
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+shadow3
+  rotate: false
+  xy: 216, 223
+  size: 143, 168
+  orig: 143, 168
+  offset: 0, 0
+  index: -1
+twinkle
+  rotate: false
+  xy: 361, 218
+  size: 132, 173
+  orig: 132, 173
+  offset: 0, 0
+  index: -1
+twinkle2
+  rotate: true
+  xy: 210, 29
+  size: 123, 134
+  orig: 123, 134
+  offset: 0, 0
+  index: -1

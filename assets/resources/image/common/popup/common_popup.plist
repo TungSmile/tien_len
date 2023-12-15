@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>BOX avatar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,774},{761,513}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{761,513}}</string>
+				<key>sourceSize</key>
+				<string>{761,513}</string>
+			</dict>
+
+			<key>BOX big.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{1023,688}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{1023,688}}</string>
+				<key>sourceSize</key>
+				<string>{1023,688}</string>
+			</dict>
+
+			<key>box 2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1802},{684,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{684,86}}</string>
+				<key>sourceSize</key>
+				<string>{684,86}</string>
+			</dict>
+
+			<key>box.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,689},{883,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{883,84}}</string>
+				<key>sourceSize</key>
+				<string>{883,84}</string>
+			</dict>
+
+			<key>box1 (1).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{762,774},{677,498}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{677,498}}</string>
+				<key>sourceSize</key>
+				<string>{677,498}</string>
+			</dict>
+
+			<key>box1 (2).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{762,1273},{201,498}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{201,498}}</string>
+				<key>sourceSize</key>
+				<string>{201,498}</string>
+			</dict>
+
+			<key>box_gift.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1889},{425,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{425,79}}</string>
+				<key>sourceSize</key>
+				<string>{425,79}</string>
+			</dict>
+
+			<key>button_next.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{67,2000},{26,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{26,30}}</string>
+				<key>sourceSize</key>
+				<string>{26,30}</string>
+			</dict>
+
+			<key>button_prev.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{67,1969},{26,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{26,30}}</string>
+				<key>sourceSize</key>
+				<string>{26,30}</string>
+			</dict>
+
+			<key>icon_dong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1969},{66,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{66,70}}</string>
+				<key>sourceSize</key>
+				<string>{66,70}</string>
+			</dict>
+
+			<key>item_title_chung.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{426,1889},{312,81}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{312,81}}</string>
+				<key>sourceSize</key>
+				<string>{312,81}</string>
+			</dict>
+
+			<key>number_off.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{94,1996},{26,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{26,26}}</string>
+				<key>sourceSize</key>
+				<string>{26,26}</string>
+			</dict>
+
+			<key>number_on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{94,1969},{26,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{26,26}}</string>
+				<key>sourceSize</key>
+				<string>{26,26}</string>
+			</dict>
+
+			<key>popup_nho.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1288},{761,513}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{761,513}}</string>
+				<key>sourceSize</key>
+				<string>{761,513}</string>
+			</dict>
+
+			<key>popup_to.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{1023,688}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{1023,688}}</string>
+				<key>sourceSize</key>
+				<string>{1023,688}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{2048,2048}</string>
+			<key>textureFileName</key>
+			<string>common_popup.png</string>
+			</dict>
+		</dict>
+</plist>

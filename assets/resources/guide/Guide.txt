@@ -1,0 +1,113 @@
+﻿<br><color=yellow><size=35>Bida 1vs1</size></color>
+<size=26>  Nhiệm vụ của người chơi là phải ăn hết các bi thuộc nhóm bi của mình sau đó ăn bi số 8 cuối cùng để giành chiến thắng.</size>
+<size=30>- Trong kiểu chơi 8 bi thì 2 người sẽ được chia làm 2 nhóm:</size>
+<size=26>   Bi màu (các bi từ 1 đến 7)<br/>   Bi khoang (các bi từ 9 đến 15)<br/>Việc xác định nhóm bi sẽ phụ thuộc vào viên Bi đầu tiên mà người chơi ăn được (sau cơ phá bàn).</size>
+<size=30>- Cơ chế sẹo:</size>
+<size=26>  Tối đa là 5 sẹo, có thể tùy chỉnh thành 2 sẹo.</size>
+<size=30>- Cơ chế thời gian:</size>
+<size=26>  Thời gian tối đa là 8 phút, có thể tùy chỉnh thành 4 phút.</size>
+<size=30>- Phạm lỗi:</size>
+<size=26>  Đánh rơi bi cái xuống lỗ.</size>
+<size=26>  Đánh không chạm bi nào thuộc nhóm bi của mình.</size>
+<size=26>  Đánh bi cái không chạm vào bi nào trên bàn.</size>
+<size=26>  Sau khi thực hiện cú đánh không có Bi nào chạm băng.</size>
+<size=26>  Khi phạm lỗi người chơi sẽ bị mất lượt và chuyển lượt đánh người chơi còn lại. Nếu Bi cái rơi xuống lỗ người chơi còn lại sẽ được phép đặt Bi cáo ở 1 vị trí bất kỳ trên bàn mà mình mong muốn.</size>
+<size=26>  Nếu đánh quá sẹo sẽ bị phạt đứng yên.</size>
+<size=30>- Xử hòa khi:</size>
+<size=26>  Khi hết ván nếu 2 người chơi bằng số sẹo và bằng số bi ăn được.</size>
+<size=30>- Xử thua khi:</size>
+<size=26>  Nếu đánh ăn bi số 8 trước khi chưa ăn hết các Bi thuộc nhóm Bi của mình sẽ bị xử thua cuộc.</size>
+<size=26>  Khi hết thời gian và ăn được ít bi mục tiêu hơn đối thủ.</size>
+<size=30>- Tính thắng thua:</size>
+<size=26>  Khi ăn hết các Bi thuộc nhóm Bi của mình và bi số 8, bạn sẽ là người chiến thắng. người chơi còn lại sẽ thua bằng số Bi còn lại trên bàn nhân với mức cược bàn chơi. Người thắng sẽ nhận bằng tổng số tiền người thua và chịu 5% thuế bàn</size>
+<size=26>  Ví dụ: Người chơi còn lại 5 Bi, mức cược bàn là 1.000 và chịu 5% thuế bàn thì bạn thắng được 5 x 1.000 x 95% = 4.750</size>
+<size=26>  Khi hết ván mà cả 2 người chơi chưa bắn hết bi cần ăn thì người ăn được nhiều bi hơn sẽ thắng. Nếu số bi ăn bằng nhau sẽ tính theo số sẹo (Sẹo ít hơn sẽ thắng, bằng sẹo thì hòa). Công thức tính tiền vẫn như trên.</size>
+
+
+
+<p><color=yellow><size=35>Bida Phỏm</size></color>
+<size=26>  Nhiệm vụ của người chơi là phải ăn đúng bi tương ứng với lá bài mà mình được chia để dành chiến thắng.</size>
+<size=30>- Bi mục tiêu:</size>
+<size=26>  Mỗi người được chia 1 lá bài và "Bi mục tiêu" sẽ được hệ thống xác định tương ứng vơi lá bài đã chia cho người chơi.</size>
+<size=30>- Cơ chế sẹo:</size>
+<size=26>  Tối đa là 5 sẹo, có thể tùy chỉnh thành 2 sẹo.</size>
+<size=30>- Cơ chế thời gian:</size>
+<size=26>  Tối đa là 8 phút, có thể tùy chỉnh thành 4 phút.</size>
+<size=30>- Hạ bài</size>
+<size=26>  Sau khi ăn được viên bi tương ứng với lá bài của mình thì người chơi sẽ giành chiến thắng.</size>
+<size=30>- Phạm lỗi:</size>
+<size=26>  Đánh bi cái rơi xuống lỗ.</size>
+<size=26>  Đánh ăn bi khác lá bài của mình.</size>
+<size=26>  Sau khi thực hiện cú đánh không có bi nào chạm băng.</size>
+<size=26>  Đánh không có bi nào chạm bi mục tiêu.</size>
+<size=26>  Nếu đánh bi mục tiêu và bi cái xuống, sẽ bị tính 1 sẹo và được chia bài mới.</size>
+<size=26>  Nếu đánh bi mục tiêu và bi đối phương xuống, sẽ bị phạt đứng yên và đối phương được chia bài mới.</size>
+<size=26>  Người chơi phạm lỗi sẽ chuyển lượt đánh cho người chơi còn lại và bị tính thêm 1 sẹo. Nếu bi cái xuống lỗ thì sẽ được đặt lại vị trí quy định ở lượt bắn sau.</size>
+<size=26>  Nếu đánh quá sẹo hoặc đánh nhầm bi đối phương xuống sẽ bị phạt đứng yên.</size>
+<size=30>- Xử hòa khi:</size>
+<size=26>  Khi hết ván nếu không có người chơi nào bắn được bi mục tiêu của mình vào lỗ.</size>
+<size=30>- Xử thua khi:</size>
+<size=26>  Ăn nhầm bi mục tiêu của người chơi còn lại.</size>
+<size=26>  Với bàn chơi từ 3 người trở lên, nếu ăn nhầm bi của người chơi khác sẽ bị đứng yên và chờ người chơi khác giành chiến thắng.</size>
+<size=30>- Tính thắng thua:</size>
+<size=26>  Ai ăn được "bi mục tiêu" đầu tiên sẽ giành chiến thắng. Tiền thắng bằng tổng số người chơi nhân với mức cược và chịu 5% thuế. Mỗi người thua cuộc sẽ thua bằng số tiền cược của bàn chơi.</size>
+<size=26>VD: Bàn chơi 5 người mức cược 1.000 và chịu 5% thuế thì người thắng sẽ được 5 x 1.000 x 95% = 4.750</size>
+
+
+
+<br><color=yellow><size=35>Bida 1vs1</size></color>
+<size=26>  The task of the player is to shoot all the balls of the same type and number 8 into the hole to win.</size>
+<size=30>- In 8 pool mode there are 2 types of marbles:</size>
+<size=26>  Colored marbles: numbered from 1 to 7.</size>
+<size=26>  Stripe balls: numbered from 9 to 15.</size>
+<size=26>  The type of marbles is determined based on the first marbles that the player ate.</size>
+<size=30>- Error mechanism:</size>
+<size=26>  Maximum of 5 errors, can be customized to 2 errors.</size>
+<size=30>- Time mechanism:</size>
+<size=26>  Maximum of 8 minutes, can be customized to 4 minutes.</size>
+<size=30>- Foul:</size>
+<size=26>  Shot while ball down the hole.</size>
+<size=26>  Shoot white balls which do not touch any of your balls.</size>
+<size=26>  Shoot a white ball with no touch on the table.</size>
+<size=26>  After shooting, no balls touch the adge of the table.</size>
+<size=26>  After making a mistake, the player's turn is transferred to another player. If the white ball falls in the hole, another player may place the white ball in the desired position.</size>
+<size=26>  If you hit the defect too, you will be stopped.</size>
+<size=30>- Draw when:</size>
+<size=26>  If the game ends with 2 players using the number of errors and the number of balls to be eaten.</size>
+<size=30>- Lost when:</size>
+<size=26>  Shoot ball number 8 down the hole before shooting all your balls into the hole.</size>
+<size=26>  When the time is up, the number of balls that you lose is less than that of other players.</size>
+<size=30>- Determine win or lose:</size>
+<size=26>  When you shoot down all the balls of your type, then shoot down the ball number 8 before the opponent, you will win. The loser will be deducted the amount of balls remaining on the table multiplied by the table bet. The winner will receive money from the loser and will be subject to 5% table tax.</size>
+<size=30>For example:</size>
+<size=26>  The player has 5 balls left, the bet is 1.000 and subject to 5% of the table tax, when you win you will get 5 x 1.000 x 95% = 4.750</size>
+<size=26>  When the game is over and both players have not shot all the balls to eat, the person who eats more balls will win. If the number of balls is equal, the number of errors will be calculated (less number will win, equal to error then draw). The calculation formula is still the same.</size>
+
+
+
+<p><color=yellow><size=35>Bida Card Mode</size></color>
+<size=26>  The player's task is to shoot down the correct hole of the ball corresponding to his card to win.</size>
+<size=30>- Target ball:</size>
+<size=26>  Each player in the table us dealt a card, the "target ball" will correspond to the player's card.</size>
+<size=30>- Lower all cards:</size>
+<size=26>  After shooting the target marbles down the hole, the player will win.</size>
+<size=30>- Foul:</size>
+<size=26>  Shot while ball down the hole.</size>
+<size=26>  Shoot white balls which do not touch any of your balls.</size>
+<size=26>  Shoot a white ball with no touch on the table.</size>
+<size=26>  After shooting, no balls touch the adge of the table.</size>
+<size=26>  If hitting a target and white ball down, there will be 1 error and be dealt a new card.</size>
+<size=26>  If the target is hit and the opponent's ball is dropped, you will be stopped and the opponent will be dealt a new card.</size>
+<size=26>  After making a mistake, the player's turn is transferred to another player. If the white ball falls in the hole, it will be reset to the prescribed position for the next shot.</size>
+<size=26>  Shoot the target ball and the white ball falls into the hole, the player will be deaft another card and another target ball.</size>
+<size=26>  If you hit the defect too or hit the wrong ball with your opponent, you will be stopped.</size>
+<size=30>- Draw when:</size>
+<size=26>  When the game is over, no player can shoot his target ball.</size>
+<size=30>- Lost when:</size>
+<size=26>  Shoot ball number 8 down the hole before shooting all your balls into the hole.</size>
+<size=26>  Over the maximum number of errors will lose.</size>
+<size=26>  Tables with 3 or more players, when shot down the target's other ball hole will stand still.</size>
+<size=30>- Determine win or lose:</size>
+<size=26>  Whoever wins the previous goal ball will win, the prize will be equal to the number of players multiplied by the table bet and subject to 5% of the table tax. Losers lose the amount equal to the table bet.</size>
+<size=30>For example:</size>
+<size=26>  For a table with 5 players, the winner will receive 5 x 1.000 x 95% = 4.750</size>

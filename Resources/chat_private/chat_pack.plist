@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>chat_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{278,165},{91,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{91,163}}</string>
+				<key>sourceSize</key>
+				<string>{91,163}</string>
+			</dict>
+
+			<key>chat_icon1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{93,82},{92,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{92,163}}</string>
+				<key>sourceSize</key>
+				<string>{92,163}</string>
+			</dict>
+
+			<key>chat_text.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{186,0},{92,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{92,164}}</string>
+				<key>sourceSize</key>
+				<string>{92,164}</string>
+			</dict>
+
+			<key>chat_text1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{279,0},{91,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{91,163}}</string>
+				<key>sourceSize</key>
+				<string>{91,163}</string>
+			</dict>
+
+			<key>chatnhanh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,82},{92,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{92,163}}</string>
+				<key>sourceSize</key>
+				<string>{92,163}</string>
+			</dict>
+
+			<key>chatnhanh1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{186,165},{91,162}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{91,162}}</string>
+				<key>sourceSize</key>
+				<string>{91,162}</string>
+			</dict>
+
+			<key>icon_gui.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{116,81}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{116,81}}</string>
+				<key>sourceSize</key>
+				<string>{116,81}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{371,329}</string>
+			<key>textureFileName</key>
+			<string>chat_pack.png</string>
+			</dict>
+		</dict>
+</plist>
